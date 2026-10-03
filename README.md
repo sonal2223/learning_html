@@ -4,7 +4,7 @@ This repository contains my **HTML learning and practice work** created while le
 
 ## 📚 Topics Covered
 
-* HTML Basic Tags
+* HTML Basic Tags.
 * Headings and Paragraphs
 * Text Formatting
 * Links and Images

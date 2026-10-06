@@ -1,6 +1,6 @@
 # Learning HTML 🌐
 
-This repository contains my **HTML learning and practice work** created while learning the fundamentals of web development. It includes examples of HTML tags, lists, tables, forms, input types, multimedia elements, symbols, SVG, images, and basic multi-page websites.
+This repository contains my **HTML learning and practice work** created while learning the fundamentals of web development. It includes examples of HTML tags, lists, tables, forms, input types, multimedia elements, symbols, SVG, images, and basic multi-page websites..
 
 ## 📚 Topics Covered
 

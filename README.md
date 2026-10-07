@@ -7,7 +7,7 @@ This repository contains my **HTML learning and practice work** created while le
 * HTML Basic Tags.
 * Headings and Paragraphs.
 * Text Formatting.
-* Links and Images
+* Links and Images.
 * Ordered, Unordered & Description Lists
 * Tables
 * Forms

@@ -8,7 +8,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Headings and Paragraphs.
 * Text Formatting.
 * Links and Images.
-* Ordered, Unordered & Description Lists
+* Ordered, Unordered & Description Lists.
 * Tables
 * Forms
 * Input Types

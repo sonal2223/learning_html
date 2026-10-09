@@ -9,7 +9,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Text Formatting.
 * Links and Images.
 * Ordered, Unordered & Description Lists.
-* Tables
+* Tables.
 * Forms
 * Input Types
 * Fieldset and Legend

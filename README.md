@@ -10,7 +10,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Links and Images.
 * Ordered, Unordered & Description Lists.
 * Tables.
-* Forms
+* Forms.
 * Input Types
 * Fieldset and Legend
 * Audio and Video

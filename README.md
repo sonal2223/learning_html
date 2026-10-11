@@ -12,7 +12,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Tables.
 * Forms.
 * Input Types.
-* Fieldset and Legend
+* Fieldset and Legend.
 * Audio and Video
 * HTML Symbols
 * Marquee

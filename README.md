@@ -15,7 +15,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Fieldset and Legend.
 * Audio and Video.
 * HTML Symbols.
-* Marquee
+* Marquee.
 * SVG
 * Basic Website Structure
 * Multi-page Website Development

@@ -14,7 +14,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Input Types.
 * Fieldset and Legend.
 * Audio and Video.
-* HTML Symbols
+* HTML Symbols.
 * Marquee
 * SVG
 * Basic Website Structure

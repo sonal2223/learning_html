@@ -16,7 +16,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Audio and Video.
 * HTML Symbols.
 * Marquee.
-* SVG
+* SVG.
 * Basic Website Structure
 * Multi-page Website Development
 

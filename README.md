@@ -17,7 +17,7 @@ This repository contains my **HTML learning and practice work** created while le
 * HTML Symbols.
 * Marquee.
 * SVG.
-* Basic Website Structure
+* Basic Website Structure.
 * Multi-page Website Development
 
 ## 📂 Repository Structure

@@ -56,7 +56,7 @@ This repository contains my **HTML learning and practice work** created while le
 
 The purpose of this repository is to practice **HTML5 concepts and build a strong foundation in web development** through practical examples and small website projects.
 
-## 🚀 Learning Journey
+## 🚀 Learning Journey.
 
 This repository represents my continuous learning and hands-on practice with HTML. The examples will be updated as I learn and practice new web development concepts.
 

@@ -78,7 +78,7 @@ This repository contains my **HTML learning and practice work** created while le
 * Ordered, Unordered & Description Lists.
 * Tables.
 * Forms.
-* Input Types
+* Input Types.
 * Fieldset and Legend
 * Audio and Video
 * HTML Symbols

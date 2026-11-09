@@ -115,7 +115,7 @@ This repository contains my **HTML learning and practice work** created while le
 ## 🛠️ Technologies Used
 
 * **HTML5**.
-* **Visual Studio Code**
+* **Visual Studio Code**.
 * **Git**
 * **GitHub**
 

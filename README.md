@@ -117,7 +117,7 @@ This repository contains my **HTML learning and practice work** created while le
 * **HTML5**.
 * **Visual Studio Code**.
 * **Git**.
-* **GitHub**
+* **GitHub**.
 
 ## 🎯 Purpose
 

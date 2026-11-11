@@ -121,7 +121,7 @@ This repository contains my **HTML learning and practice work** created while le
 
 ## 🎯 Purpose
 
-The purpose of this repository is to practice **HTML5 concepts and build a strong foundation in web development** through practical examples and small website projects.
+The purpose of this repository is to practice **HTML5 concepts and build a strong foundation in web development** through practical examples and small website projects..
 
 ## 🚀 Learning Journey
 

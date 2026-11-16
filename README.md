@@ -125,6 +125,6 @@ The purpose of this repository is to practice **HTML5 concepts and build a stron
 
 ## 🚀 Learning Journey..
 
-This repository represents my continuous learning and hands-on practice with HTML. The examples will be updated as I learn and practice new web development concepts.
+This repository represents my continuous learning and hands-on practice with HTML. The examples will be updated as I learn and practice new web development concepts..
 
 GitHub: [sonal2223](https://github.com/sonal2223)
